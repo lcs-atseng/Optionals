@@ -11,7 +11,10 @@
  
  */
 // Type your code below this line
+vay x : Int?
+var y : Int?
 
+x * y
 
 
 //: [Next](@next)
